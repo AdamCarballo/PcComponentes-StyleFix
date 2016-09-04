@@ -1,0 +1,2 @@
+## Ignore .build folder (Private key and .crx file) ##
+.build/

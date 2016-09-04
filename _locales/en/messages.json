@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "PcComponentes Style Fix",
+    "description": "The title of the application, displayed in the web store."
+  },
+  "appDesc": {
+    "message": "Fix the new (rather stupid) layout of pccomponentes.com", 
+    "description":"The description of the application, displayed in the web store."
+  }
+}

@@ -1,13 +1,17 @@
 {
   "manifest_version": 2,
 
-  "name": "PcComponentes Style Fix",
-  "version": "0.0.1",
-  "description": "Fix the new (rather stupid) layout of pccomponentes.com",
+  "name": "__MSG_appName__",
+  "short_name": "PcC Fix",
+  "version": "0.0.15",
+  "description": "__MSG_appDesc__",
+  "icons": { "48": "icons/icon48.png",
+            "128": "icons/icon128.png" },
+  "default_locale": "en",
 
   "content_scripts": [{
     "css": ["styles.css"],
-    "js": ["content.js"],
-    "matches": ["https://www.pccomponentes.com/*"]
+    "matches": ["https://www.pccomponentes.com/*"],
+    "exclude_matches": ["https://www.pccomponentes.com/login"]
   }]
 }

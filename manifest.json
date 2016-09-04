@@ -1,0 +1,13 @@
+{
+  "manifest_version": 2,
+
+  "name": "PcComponentes Style Fix",
+  "version": "0.0.1",
+  "description": "Fix the new (rather stupid) layout of pccomponentes.com",
+
+  "content_scripts": [{
+    "css": ["styles.css"],
+    "js": ["content.js"],
+    "matches": ["https://www.pccomponentes.com/*"]
+  }]
+}

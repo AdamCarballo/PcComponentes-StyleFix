@@ -1,0 +1,24 @@
+.cabecera {
+  height: 75px !important;
+}
+.contenedor-principal {
+  margin-top: 75px !important;
+}
+.contenedor-buscador-principal {
+  top: 0.45rem !important;
+}
+.menu-principal {
+  top: 75px !important;
+}
+.caja-texto-informativo {
+  display: none !important;
+}
+#pccomponentes-logo {
+  top: -0.9rem !important;
+}
+#triger-menu {
+  top: inherit !important;
+}
+#usuario {
+  top: 0px !important;
+}

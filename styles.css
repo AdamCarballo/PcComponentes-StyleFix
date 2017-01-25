@@ -1,24 +1,61 @@
 .cabecera {
-  height: 75px !important;
+  height: 60px !important;
 }
 .contenedor-principal {
-  margin-top: 75px !important;
+  margin-top: 60px !important;
 }
 .contenedor-buscador-principal {
-  top: 0.45rem !important;
+  top: -0.1rem !important;
+  background-color: inherit !important;
 }
 .menu-principal {
-  top: 75px !important;
+  top: 60px !important;
 }
 .caja-texto-informativo {
   display: none !important;
 }
 #pccomponentes-logo {
-  top: -0.9rem !important;
+  top: -1rem !important;
+  width: 120px !important;
+  /*-0.5rem*/
 }
 #triger-menu {
-  top: inherit !important;
+  top: 0.45rem !important;
 }
 #usuario {
-  top: 0px !important;
+  top: -0.45rem !important;
+}
+
+/* Lateral PopUps */
+#popUpsLaterales {
+	display: none !important;
+}
+
+/* Buy curtain */
+#buyCurtain.loaded {
+	max-height: 60px !important;
+}
+#btnsWishAddBuy .btn.buy, .buybtnsWishAddBuy .btn.buy {
+    height: 39px !important;
+	margin-top: -15px !important;
+}
+#buyCurtain .buybtnsWishAddBuy .btn.buy strong {
+    top: -3px !important;
+}
+.priceBlock .precioMain {
+	margin-top: 0px !important;
+}
+#buyCurtain .priceBlock {
+	top: 5px !important;
+}
+#buyCurtain img{
+	max-width: 50px !important;
+	margin-top: -8px !important;
+}
+#buyCurtain .onBlock {
+	margin-top: -12px !important;
+}
+#buyCurtain .disponibilidad {
+	margin-left: 80px !important;
+	margin-top: -26px !important;
 }

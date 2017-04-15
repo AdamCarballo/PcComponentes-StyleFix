@@ -6,10 +6,8 @@ Overview
 ----
 The new 2016 design layout for pccomponentes.com includes a 100px navigation bar stuck to the top of the window, that won't let you read anything without scrolling all the time.
 
-This extension reduces the size of the navigation bar, making the web experience a lot better.
-
-<br>
-![alt text](http://i.imgur.com/OnVFpm9.jpg "Comparison")
+This extension reduces the size of the navigation bar, making the web experience a lot better.<br><br>
+![Comparison](https://i.imgur.com/OnVFpm9.jpg)
 
 Chrome Web Store
 ----
